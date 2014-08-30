@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.bbl
+*.blg
+*.bcf
+thinkcs.pdf
+*.run.xml
