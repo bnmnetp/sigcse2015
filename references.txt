@@ -1,0 +1,118 @@
+(A)
+P. Denny, A. Luxton-Reilly, E. Tempero, and
+J. Hendrickx. Understanding the syntax barrier for
+novices. In Proc. ITiCSE ’11, pages 208–212, 2011.
+ACM.
+
+(B)
+ S. K. Kummerfeld and J. Kay. The neglected battle
+fields of syntax errors. In Proc. ACE ’03, vol 20, pages
+105–111, Australia, 2003. ACS.
+
+(C)
+Enhancing Syntax Error Messages Appears Ineffectual
+Paul Denny
+Andrew Luxton-Reilly
+Dave Carpenter
+Proceeding
+ITiCSE '14 Proceedings of the 2014 conference on Innovation & technology in computer science education
+Pages 273-278 
+ACM New York, NY, USA ©2014 
+ITiCSE’14, June 21–25, 2014, Uppsala, Sweden
+
+(D)
+Zelle
+Python as a First Language
+Paper presented at 13th Annual Midwest Computer Conference, March 1999
+
+(E)
+Miller, Bradley N., Ranum, David L., “Teaching an Introductory Computer Science Sequence 
+with Python”, Proceedings of the Midwest Instructional Computing Symposium (MICS), 2005.
+
+(F)
+Ranum, David L., Miller, Bradley N., Zelle, John, and Guzdial, Mark. “Successful Approaches to 
+Teaching Introductory Computer Science Courses with Python”. Proceedings of the 37th SIGCSE 
+Technical Symposium on Computer Science Education, March 1-5, 2006, pp 396-397.
+
+(G)
+Miller, Bradley N., Ranum, David L., “Exploring Python as a Learning and Teaching Language”, 
+Journal of Computing Sciences in Colleges, Vol 21(4), April 2006, pp 22.
+
+@inproceedings{DBLP:dblp_conf/sigcse/GuzdialRMSERDKB10,
+   author              = {Mark Guzdial and 
+                          David Ranum and 
+                          Bradley N. Miller and 
+                          Beth Simon and 
+                          Barbara Ericson and 
+                          Samuel A. Rebelsky and 
+                          Janet Davis and 
+                          Deepak Kumar and 
+                          Douglas S. Blank},
+   title               = {Variations on a theme: role of media in motivating computing education.},
+   booktitle           = {SIGCSE},
+   year                = {2010},
+   pages               = {66-67},
+   ee                  = {http://doi.acm.org/10.1145/1734263.1734287},
+   crossref            = {2010},
+}
+
+
+(I)
+[5] J. B. Fenwick, Jr., C. Norris, F. E. Barry, J. Rountree,
+C. J. Spicer, and S. D. Cheek. Another look at the
+behaviors of novice programmers. In SIGCSE ’09,
+pages 296–300. ACM, 2009.
+
+(J)
+[6] M. C. Jadud. An Exploration of Novice Compilation
+Behaviour in BlueJ. PhD thesis, Computing
+Laboratory, University of Kent, January 2007.
+
+(K)
+M. K¨olling and I. Utting. Building an open, large-scale
+research data repository of initial programming
+student behaviour. In SIGCSE ’12, pages 323–324.
+ACM, 2012.
+
+(L)
+Blackbox: A Large Scale Repository of Novice
+Programmers’ Activity
+Neil C. C. Brown, Michael Kölling, Davin McCall and Ian Utting
+SIGCSE’14, March 5–8, 2014, Atlanta, GA, USA.
+
+(M)
+Measuring the Effectiveness of Error Messages 
+Designed for Novice Programmers 
+Guillaume Marceau 
+Kathi Fisler 
+Shriram Krishnamurthi 
+SIGCSE’11, March 9–12, 2011, Dallas, Texas, USA. 
+
+(N)
+Philip Guo
+http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext
+
+(O)
+@inproceedings{DBLP:dblp_conf/l@s/MillerR14,
+   author              = {Bradley N. Miller and 
+                          David Ranum},
+   title               = {Runestone interactive: tools for creating interactive course materials.},
+   booktitle           = {L@S},
+   year                = {2014},
+   pages               = {213-214},
+   ee                  = {http://doi.acm.org/10.1145/2556325.2567887},
+   crossref            = {2014},
+}
+
+(P)
+@inproceedings{DBLP:dblp_conf/iticse/MillerR12,
+   author              = {Bradley N. Miller and 
+                          David Ranum},
+   title               = {Beyond PDF and ePub: toward an interactive textbook.},
+   booktitle           = {ITiCSE},
+   year                = {2012},
+   pages               = {150-155},
+   ee                  = {http://doi.acm.org/10.1145/2325296.2325335},
+   crossref            = {2012},
+}
+
